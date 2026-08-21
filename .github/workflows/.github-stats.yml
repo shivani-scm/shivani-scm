@@ -10,14 +10,12 @@ permissions:
 
 jobs:
   generate:
+    name: Generate Profile Cards
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
-
-      - name: Create profile directory
-        run: mkdir -p profile
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -35,29 +33,56 @@ jobs:
             hide_border=false
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate GitHub Streak
+        shell: bash
         run: |
-          curl -L \
+          set -e
+
+          mkdir -p profile
+
+          curl --fail --silent --show-error --location \
             "https://streak-stats.demolab.com/?user=shivani-scm&theme=github-dark-blue&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" \
-            -o profile/streak.svg
+            --output profile/streak.svg
 
       - name: Generate GitHub Trophies
+        shell: bash
         run: |
-          curl -L \
-            "https://github-profile-trophy.vercel.app/?username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" \
-            -o profile/trophy.svg
+          set -e
 
-      - name: Commit generated cards
+          mkdir -p profile
+
+          curl --fail --silent --show-error --location \
+            "https://github-profile-trophy.vercel.app/?username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" \
+            --output profile/trophy.svg
+
+      - name: Validate generated files
+        shell: bash
+        run: |
+          set -e
+
+          test -s profile/stats.svg
+          test -s profile/streak.svg
+          test -s profile/trophy.svg
+
+          echo "Generated profile cards:"
+          ls -lh profile/*.svg
+
+      - name: Commit updated cards
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/
+          git add profile/stats.svg
+          git add profile/streak.svg
+          git add profile/trophy.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update GitHub profile cards"
-            git push
+            echo "No profile card changes detected."
+            exit 0
           fi
+
+          git commit -m "chore: update GitHub profile cards"
+          git push
