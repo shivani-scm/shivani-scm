@@ -616,10 +616,10 @@ demand-forecasting-capacity-planning/
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=58A6FF&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&hide_border=false&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shivani-scm&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=58A6FF&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&hide_border=false&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=shivani-scm&theme=github-dark-blue&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -627,14 +627,14 @@ demand-forecasting-capacity-planning/
 <br />
 
 <!-- GITHUB TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
 <br />
 
 <!-- ACTIVITY GRAPH — FULL WIDTH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1B4F72&hide_border=false&border_color=58A6FF" alt="GitHub Contribution Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani-scm&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1B4F72&hide_border=false&border_color=58A6FF" alt="GitHub Contribution Activity Graph" width="100%" />
 
 <br />
 
@@ -647,9 +647,9 @@ demand-forecasting-capacity-planning/
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shivani-scm/shivani-scm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivani-scm/shivani-scm/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shivani-scm/shivani-scm/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -667,7 +667,7 @@ demand-forecasting-capacity-planning/
 
 <br />
 
-> Full experience available on [LinkedIn](LINKEDIN_LINK)
+> Full experience available on [LinkedIn](https://www.linkedin.com/in/shivani-joshi-scm/)
 
 ---
 
