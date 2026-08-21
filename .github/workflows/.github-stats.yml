@@ -47,15 +47,11 @@ jobs:
             --output profile/streak.svg
 
       - name: Generate GitHub Trophies
-        shell: bash
-        run: |
-          set -e
-
-          mkdir -p profile
-
-          curl --fail --silent --show-error --location \
-            "https://github-profile-trophy.vercel.app/?username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" \
-            --output profile/trophy.svg
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10'
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate generated files
         shell: bash
