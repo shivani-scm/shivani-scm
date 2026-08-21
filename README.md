@@ -732,34 +732,111 @@ demand-forecasting-capacity-planning/
 
 ---
 
-### 🏪 Supply Chain Analyst — Kroger *(Current)*
+### 🏪 Supply Chain Manager — Kroger *(Feb 2025 - Present)* Chantily, VA
 
-Working within a large-scale retail supply chain with exposure to complex demand and distribution planning at scale:
+* **Supply Chain Strategy, Resilience & Global Sourcing**: Led end-to-end supply chain strategy,\
+  resilience, geopolitical risk management, dual sourcing, nearshoring/reshoring, trade compliance,\
+  and strategic procurement across a complex retail network; diversified critical suppliers, redesigned\
+  sourcing lanes, and developed disruption playbooks that reduced single-source exposure by 22%,\
+  improved supply continuity by 15%, and lowered average disruption recovery time by 20%.
+* **Digital Supply Chain, AI & Intelligent Operations**: Led digital supply chain transformation using\
+  digital twins, IoT/connected supply chain technologies, Generative AI, Agentic AI, AI-assisted\
+  decision making, and supply chain automation to improve planning, exception management, supplier\
+  monitoring, and operational visibility; automated high-volume planning and reporting workflows\
+  reducing manual effort by 35%, improving exception-resolution speed by 25%, and increasing\
+  end-to-end supply-chain visibility by 30% while implementing AI governance, human-AI oversight,\
+  and cybersecurity awareness controls.
+* **Financial & Commercial Leadership**: Owned supply-chain financial performance through financial\
+  acumen, supply chain P&L management, cost modeling, TCO analysis, and business case development;\
+  evaluated network, sourcing, inventory, transportation, and technology investments to improve\
+  cost-to-serve and working capital, delivering 8–12% cost savings, 10% improvement in working\
+  capital efficiency, and $18.6M annualized value across strategic initiatives.
+* **Operational Excellence & Continuous Improvement**: Applied Lean Six Sigma, continuous improvement,\
+  process optimization, operational excellence, and root-cause analysis to supplier, fulfillment,\
+  inventory, transportation, and distribution processes; led cross-functional improvement initiatives\
+  that reduced process cycle time by 18%, improved order/fulfillment performance by 12%, and reduced\
+  recurring operational defects and exceptions by 20%.
+* **Executive Leadership & Transformation**: Provided cross-functional leadership, collaboration,\
+  stakeholder management, executive communication, team leadership, change management, and project\
+  management across procurement, merchandising, transportation, distribution, finance, IT, and\
+  operations; led strategic transformation programs, established governance and decision-right\
+  frameworks, and aligned senior stakeholders around supply-chain priorities, improving program\
+  delivery by 20% and team productivity by 15%.
+* **Supplier Governance & Strategic Partnerships**: Directed strategic supplier relationship\
+  management and supplier governance, establishing executive scorecards and performance reviews\
+  covering OTIF, fill rate, lead time, quality, cost, service levels, risk, and contract compliance;\
+  strengthened strategic supplier relationships, improved supplier OTIF by 12%, reduced\
+  supplier-related disruptions by 18%, and identified additional sourcing and automation\
+  opportunities across the supplier portfolio.
 
-* Managed planning processes encompassing **5M+ customer demand signals**
-* Supported distribution planning involving **30K+ units/day**
-* Built and maintained **Power BI KPI dashboards** for supply chain performance monitoring
-* Supported **S&OP / IBP processes** — forecast review, supply-demand balancing, and executive reporting
-* Automated recurring reporting workflows using **Power BI and Advanced Excel / Power Query**
-* Worked with **SAP and Oracle** ERP environments for supply chain data extraction and analysis
-* Collaborated cross-functionally with operations, procurement, finance, and commercial teams
-* Conducted **root-cause analysis** on service and inventory exceptions
+-----
+
+### 🚛 Demand Planner — Total Quality Logistics *(Aug 2023 - Jan 2025)* Chantily, VA- Contract Role
+
+* **Demand Planning, Forecasting & Predictive Analytics**: Managed demand planning and forecasting\
+  across transportation lanes, customer volumes, shipment patterns, capacity requirements, and\
+  seasonal fluctuations using demand sensing, predictive demand forecasting, statistical analysis,\
+  predictive analytics, and machine-learning forecasting models; improved forecast accuracy by 18%,\
+  reduced forecast bias by 12%, and increased planning visibility across key lanes and customer segments.
+* **S&OP, IBP & Demand-Supply Balancing**: Supported S&OP, Sales & Operations Planning, and\
+  Integrated Business Planning by translating demand signals into actionable supply requirements,\
+  balancing demand-supply matching, capacity, carrier availability, and customer requirements;\
+  developed scenario planning models for peak demand, capacity shortages, and market disruptions,\
+  improving planning adherence by 15% and reducing demand-supply mismatches by 20%.
+* **Inventory, Replenishment & Service-Level Optimization**: Developed safety stock optimization,\
+  replenishment planning, and service-level optimization models using demand variability,\
+  lead times, transportation constraints, and target service levels; reduced excess inventory by 10%,\
+  improved inventory availability by 9%, and maintained targeted service levels above 95% across\
+  priority operations.
+* **Network & Transportation Optimization**: Analyzed shipment flows, lane-level demand, carrier\
+  capacity, distribution requirements, and transportation costs to perform network optimization,\
+  production planning, and transportation optimization; leveraged supply chain control tower reporting\
+  and automated planning workflows to improve carrier utilization by 12%, reduce transportation\
+  cost per shipment by 8%, and improve on-time delivery by 10%.
+* **Risk, Resilience & Cost Optimization**: Integrated supply chain risk management, supply chain\
+  resilience, cost optimization, and Total Cost of Ownership (TCO) into planning decisions by\
+  evaluating supplier, carrier, capacity, lead-time, and disruption scenarios; developed contingency\
+  plans and sourcing alternatives that reduced disruption exposure by 15% and generated 6–8% savings\
+  across targeted transportation and supply decisions.
+* **Strategic Sourcing & Procurement Collaboration**: Partnered with procurement and operations teams\
+  on strategic sourcing, supplier negotiation, contract management, category management, source-to-pay,\
+  and global sourcing, using demand forecasts and spend patterns to support supplier selection,\
+  contract decisions, and capacity allocation; improved supplier performance by 10%, reduced sourcing\
+  cycle time by 15%, and identified 5–7% cost-saving opportunities through category and supplier analysis.
+
+
 
 ---
 
-### 🚛 Supply Chain / Logistics Analyst — Total Quality Logistics
+### 🏢 Supply Chain Analyst — Mphasis *(Apr 2019 - May 2022)* Hyederabad, IND
 
-* Analyzed **50K+ weekly truckload shipments** for logistics performance monitoring
-* Supported transportation analytics — carrier performance, lane analysis, and freight cost visibility
-* Delivered KPI reporting and exception management for logistics operations
-* Worked cross-functionally with carrier relations, operations, and commercial teams
+* **Supply Chain Analytics & Reporting**: Analyzed end-to-end supply chain, procurement, inventory,\
+  logistics, and fulfillment data using Advanced Excel, SQL, Advanced SQL, Power Query, Python,\
+  Power BI, and Tableau; developed automated KPI dashboards and data models covering inventory turns,\
+  service levels, OTIF, order cycle time, stockouts, supplier performance, transportation spend,\
+  and fulfillment metrics, reducing manual reporting effort by 35% and improving reporting turnaround by 40%.
+* **Planning & Inventory Analytics**: Supported supply chain planning, supply planning, demand planning\
+  & forecasting, MRP, MPS, DRP, and capacity planning by analyzing demand trends, forecast variance,\
+  inventory positions, material availability, and production/distribution requirements; identified\
+  excess and obsolete inventory and replenishment gaps, contributing to a 10–15% reduction in excess\
+  inventory, 8% improvement in inventory turns, and 12% reduction in stockout incidents.
+* **ERP, SAP & Operational Analysis**: Worked with ERP systems and SAP/SAP S/4HANA data to analyze\
+  purchase orders, sales orders, production orders, material movements, inventory transactions, and\
+  warehouse/distribution activity; monitored order management, fulfillment, logistics,\
+  transportation, warehouse, and distribution operations, improving order visibility and helping\
+  reduce average order cycle time by 15%.
+* **Procurement & Supplier Performance**: Analyzed procurement and strategic sourcing, supplier\
+  relationship management, supplier performance, spend analysis, and purchase-to-pay processes;\
+  built supplier scorecards tracking OTIF, lead time, quality, fill rate, purchase-price variance,\
+  and delivery reliability, identifying supplier and spend optimization opportunities that contributed\
+  to 5–8% procurement savings and a 10% improvement in supplier on-time performance.
+* **Process Improvement & Decision Support**: Performed statistical analysis, root-cause analysis,\
+  and operational trend analysis to identify demand, inventory, supplier, transportation, and\
+  fulfillment issues; partnered with planning, procurement, operations, finance, and technology\
+  teams to translate analytical findings into actionable recommendations, improving supply chain\
+  KPI visibility and supporting 8–12% improvement across targeted operational KPIs.
 
----
-
-### 🏢 Supply Chain Analyst — Mphasis
-
-* Earlier supply chain and analytical experience supporting planning and operational decision-making
-* Built foundational expertise in supply chain data, reporting, and cross-functional coordination
+----
 
 </details>
 
