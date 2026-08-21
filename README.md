@@ -854,31 +854,31 @@ demand-forecasting-capacity-planning/
 <br />
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════════════╗
 ║  SUPPLY CHAIN PROBLEM-SOLVING FRAMEWORK                                ║
-╠══════════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
 ║  1. START WITH THE BUSINESS PROBLEM                                    ║
 ║     Every analysis answers a question a supply chain leader is asking —║
 ║     not a question that is easy to answer with available data.         ║
 ║                                                                        ║
-║  2. CONVERT OPERATIONAL DATA INTO MEASURABLE INSIGHTS                 ║
+║  2. CONVERT OPERATIONAL DATA INTO MEASURABLE INSIGHTS                  ║
 ║     Raw demand signals, ERP extracts, and shipment records become      ║
 ║     meaningful only when structured around a decision.                 ║
 ║                                                                        ║
-║  3. BALANCE COST, SERVICE, INVENTORY, AND CAPACITY                    ║
+║  3. BALANCE COST, SERVICE, INVENTORY, AND CAPACITY                     ║
 ║     Every supply chain decision involves tradeoffs — and the best      ║
 ║     plans make those tradeoffs explicit, not invisible.                ║
 ║                                                                        ║
-║  4. USE SCENARIOS TO UNDERSTAND TRADEOFFS AND RISK                    ║
+║  4. USE SCENARIOS TO UNDERSTAND TRADEOFFS AND RISK                     ║
 ║     A single plan is a guess. A scenario set is a decision framework.  ║
 ║     Good planning quantifies the upside, downside, and risk.           ║
 ║                                                                        ║
-║  5. TURN ANALYTICS INTO DECISIONS, NOT JUST DASHBOARDS                ║
-║     A dashboard showing what happened is useful.                      ║
+║  5. TURN ANALYTICS INTO DECISIONS, NOT JUST DASHBOARDS                 ║
+║     A dashboard showing what happened is useful.                       ║
 ║     A platform showing what to do next is valuable.                    ║
 ║                                                                        ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 </details>
@@ -939,29 +939,6 @@ Open to opportunities in **Supply Chain Planning · S&OP · Demand Forecasting �
 
 ---
 
-<!--
-══════════════════════════════════════════════════════════════════════════
-  SETUP CHECKLIST
-══════════════════════════════════════════════════════════════════════════
-  [ ] YOUR_EMAIL      → replace with your professional email address
-  [ ] PORTFOLIO_LINK  → replace with your portfolio URL
-  [ ] PROJECT_LINK    → replace with the actual project repository URL
-  [ ] Verify all external image URLs render correctly
 
-  SNAKE ANIMATION:
-  Create:
-      .github/workflows/snake.yml
-
-  The workflow must generate:
-      output/github-contribution-grid-snake.svg
-      output/github-contribution-grid-snake-dark.svg
-
-  Then the README references will work automatically.
-
-  IMPORTANT:
-  GitHub Stats uses only public statistics on the public hosted instance.
-  Private statistics require your own deployed instance / token.
-══════════════════════════════════════════════════════════════════════════
--->
 
 
