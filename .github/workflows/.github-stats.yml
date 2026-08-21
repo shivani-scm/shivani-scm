@@ -45,13 +45,14 @@ jobs:
           curl --fail --silent --show-error --location \
             "https://streak-stats.demolab.com/?user=shivani-scm&theme=github-dark-blue&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" \
             --output profile/streak.svg
+            
+            - name: Generate GitHub Trophies
+            uses: soulteary/github-profile-trophy-action@v1.0.0
+            with:
+            options: 'username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10'
+            path: profile/trophy.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate GitHub Trophies
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: 'username=shivani-scm&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10'
-          path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate generated files
         shell: bash
